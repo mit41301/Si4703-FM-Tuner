@@ -1,6 +1,6 @@
 ## Si4703
 
-Different versions of boards will have different VCC and GND pins. VCC and GND pins are swapped in different versions. Make sure the power and ground pins are connected properly.
+Different versions of boards will have different VCC and GND pins. VCC and GND pins are swapped in different versions. Make sure the power and ground pins are connected properly. Directly able to drive 32 ohms headphone.
 
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/b4a79638-09ad-46e2-9e27-7f4bc5b4ea49" />
 
