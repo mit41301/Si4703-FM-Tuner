@@ -4,7 +4,7 @@ Different versions of boards will have different VCC and GND pins. VCC and GND p
 
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/b4a79638-09ad-46e2-9e27-7f4bc5b4ea49" />
 
-GND and VCC
+GND and 3.3V
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/197f0121-f507-4f1a-8211-44a6ef5f44ab" />
 
