@@ -8,6 +8,7 @@ GND and 3.3V
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/197f0121-f507-4f1a-8211-44a6ef5f44ab" />
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0dad5e3b-803e-40f3-a4f5-d9085ed7e413" />
+<img width="559" height="552" alt="image" src="https://github.com/user-attachments/assets/cf66e0fc-047a-4a7b-b2b1-c79cd391846d" />
+
 
 3.3V and GND
